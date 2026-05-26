@@ -1,2 +1,2 @@
-# mhqa-ahli-submission
+# mhqa-submission
 MHQA dataset and code repository
